@@ -6,7 +6,7 @@
 body {
   font-family: "Crimson Text", serif;
 }
-@media (max-width: 780px) {
+@media (max-width: 768px) {
   .primary-button {
     display: flex;
     justify-content: center;
